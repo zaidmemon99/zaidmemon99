@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Zaid Memon
 
 <!--
 **zaidmemon99/zaidmemon99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+I am currently pursuing my Masters in Civil Engineering at Technical University of Munich. 
+At present, I am working on my Master Thesis namely "A BIM-based automated framework for comparative analysis of (indoor) building designs".
+You may have a look at my interest in visual programming on my github page.
+
+### What do I do for Fun
+- Cooking with Friends
+- Watching Films
+- Playing Table Tennis and Badminton
